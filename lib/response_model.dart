@@ -1,3 +1,5 @@
+//response_model.dart created by honey manimbo
+
 class ResponseModel {
   String? word;
   String? phonetic;
